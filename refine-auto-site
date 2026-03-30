@@ -1,0 +1,49 @@
+<footer style="background:#0A3D62; color:white; padding:60px 20px; font-family:Arial,sans-serif;">
+  <div style="max-width:1200px; margin:0 auto; display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:30px;">
+    <div>
+      <h2 style="font-size:24px; font-weight:bold; margin-bottom:10px;">REFINE & RENEW</h2>
+      <p style="font-size:10px; letter-spacing:0.3em; color:#3DA5D9; text-transform:uppercase;">Auto Detailing</p>
+      <p style="color:rgba(255,255,255,0.5); margin-top:10px;">
+        Premium mobile car detailing in Edmonton. Professional results delivered to your location.
+      </p>
+      <div style="margin-top:10px;">
+        <a href="https://www.instagram.com/refineandrenewauto/" target="_blank" style="display:inline-block; width:40px; height:40px; background:rgba(255,255,255,0.05); border-radius:50%; text-align:center; line-height:40px; margin-right:5px;">IG</a>
+        <a href="#" style="display:inline-block; width:40px; height:40px; background:rgba(255,255,255,0.05); border-radius:50%; text-align:center; line-height:40px;">FB</a>
+      </div>
+    </div>
+
+    <div>
+      <h3 style="font-size:18px; font-weight:bold; margin-bottom:10px;">Quick Links</h3>
+      <ul style="list-style:none; padding:0;">
+        <li><a href="#services" style="color:rgba(255,255,255,0.5); text-decoration:none;">Services</a></li>
+        <li><a href="#how-it-works" style="color:rgba(255,255,255,0.5); text-decoration:none;">How It Works</a></li>
+        <li><a href="#about" style="color:rgba(255,255,255,0.5); text-decoration:none;">About Us</a></li>
+        <li><a href="#" style="color:rgba(255,255,255,0.5); text-decoration:none;">Book Now</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style="font-size:18px; font-weight:bold; margin-bottom:10px;">Contact Info</h3>
+      <p style="color:rgba(255,255,255,0.5); margin-bottom:5px;">Phone: <a href="tel:8254197104" style="color:white;">(825) 419-7104</a></p>
+      <p style="color:rgba(255,255,255,0.5); margin-bottom:5px;">Location: Edmonton & Surrounding Areas</p>
+      <p style="color:rgba(255,255,255,0.5); margin-bottom:5px;">Hours: 8:00 AM – 8:00 PM</p>
+    </div>
+
+    <div>
+      <h3 style="font-size:18px; font-weight:bold; margin-bottom:10px;">Service Area</h3>
+      <p style="color:rgba(255,255,255,0.5); margin-bottom:5px;">We proudly serve Edmonton, St. Albert, Sherwood Park, and surrounding areas.</p>
+      <div style="background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.1); padding:10px; border-radius:10px;">
+        <p style="font-size:10px; color:#3DA5D9; text-transform:uppercase; margin:0;">Edmonton, AB</p>
+        <p style="font-size:12px; color:rgba(255,255,255,0.7); margin:0;">Mobile Service - We Come To You</p>
+      </div>
+    </div>
+  </div>
+
+  <div style="border-top:1px solid rgba(255,255,255,0.05); padding-top:20px; margin-top:20px; display:flex; justify-content:space-between; flex-wrap:wrap; font-size:12px; color:rgba(255,255,255,0.3);">
+    <p>© 2026 Refine & Renew Auto. All rights reserved.</p>
+    <div>
+      <a href="#" style="margin-right:10px; color:rgba(255,255,255,0.3); text-decoration:none;">Privacy Policy</a>
+      <a href="#" style="color:rgba(255,255,255,0.3); text-decoration:none;">Terms of Service</a>
+    </div>
+  </div>
+</footer>
